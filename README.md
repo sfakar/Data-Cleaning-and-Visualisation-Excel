@@ -3,7 +3,8 @@
 In this project, we aim to create a report on bike purchases to understand customer buying patterns and drive sales growth. I added a slicer to give us more options for filtering.
 ##Dateset Used
 - <a href="https://github.com/sfakar/Data-Cleaning-and-Visualisation-Excel/blob/main/Excel%20Project.xlsx">Excel Dataset</a>
-##Questions (KPIs)
+
+## Questions (KPIs)
 
 -Average income of those who bought a bike and those who didn't buy a bike by their gender.
 -What is their commute distance from work?
@@ -14,7 +15,8 @@ In this project, we aim to create a report on bike purchases to understand custo
 
 -Dashboard interaction <a href="https://github.com/sfakar/Data-Cleaning-and-Visualisation-Excel/blob/main/Screenshot%202025-09-08%20160926.png">
 
-##Process
+## Process
+
 -Verify data for any missing values and anomalies, and sort out the same
 -Made sure data is consistent and clean with respect to data format and Values used.
 -Created Pivot tables according to the questions asked.
