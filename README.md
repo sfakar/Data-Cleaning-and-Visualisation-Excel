@@ -10,7 +10,7 @@ In this project, we aim to create a report on bike purchases to understand custo
 - What is their commute distance from work?
 - What age bracket purchased more
 
-- Dashboard interaction <a href="https://github.com/sfakar/Data-Cleaning-and-Visualisation-Excel/blob/main/Screenshot%202025-09-08%20160926.png">
+- Dashboard interaction <a href="https://github.com/sfakar/Data-Cleaning-and-Visualisation-Excel/blob/main/Screenshot%202025-09-08%20160926.png">View Dashboard</a>
 
 ## Process
 
