@@ -20,8 +20,8 @@ In this project, we aim to create a report on bike purchases to understand custo
 - Merge all pivot tables into one dashboard and apply a slicer to make dynamics.
 
 ## Dashboard
-<img ![Dashboard](https://github.com/user-attachments/assets/37ab86e3-931a-4ff8-874a-958c073ae47b)
- />
+<img width="1013" height="587" alt="Dashboard" src="https://github.com/user-attachments/assets/b786a99b-f447-4bbc-b272-f049917c4fc6" />
+
 
 ## Project Insight
 Based on the data provided, the following points can be deduced,
